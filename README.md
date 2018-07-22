@@ -1,0 +1,1 @@
+ImageManager for know: Resizes, renames and downloads images
